@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 export default function Success() {
 	return (
 		<PageWrapper title="提交成功">
-			<p>问卷提交成功</p>
+			<p>问卷提交成功1</p>
 		</PageWrapper>
 	);
 }
